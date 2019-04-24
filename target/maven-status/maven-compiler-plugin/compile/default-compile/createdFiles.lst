@@ -1,0 +1,11 @@
+com/greggahill/petit/repository/BookRepository.class
+com/greggahill/petit/resolver/Mutation.class
+com/greggahill/petit/model/Book.class
+com/greggahill/petit/repository/AuthorRepository.class
+com/greggahill/petit/PetitApplication.class
+com/greggahill/petit/PetitApplication$1.class
+com/greggahill/petit/exceptions/GraphQLErrorAdapter.class
+com/greggahill/petit/model/Author.class
+com/greggahill/petit/exceptions/BookNotFoundException.class
+com/greggahill/petit/resolver/Query.class
+com/greggahill/petit/resolver/BookResolver.class
